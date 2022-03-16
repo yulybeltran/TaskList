@@ -3,7 +3,7 @@
 Permite crear una lista de tareas e ir tachando las tareas realizadas.
 
 
-## Installation
+## Instalación
 
 
 1. `npm install`
